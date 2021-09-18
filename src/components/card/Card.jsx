@@ -10,7 +10,11 @@ const Card = ({ props }) => {
                 </div>
                 <img className="img" src={props.image} alt={props.title} />
 
-                <button className="button">Ver</button>
+                <button className="button">
+                    <a className="button" href={props.url}>
+                        ver
+                    </a>
+                </button>
             </div>
         </>
     );

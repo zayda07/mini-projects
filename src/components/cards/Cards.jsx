@@ -7,7 +7,7 @@ const Cards = () => {
     return (
         <div className="box grid-responsive ">
             {Retos.map((reto) => (
-                <Card key={reto.id} props={reto} />
+                <Card key={reto.id} props={reto} onClick={reto} />
             ))}
         </div>
     );
