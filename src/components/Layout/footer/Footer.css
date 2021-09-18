@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footerSection {
+    position: sticky;
+    height: 50px;
+    background-color: rgb(26, 103, 226);
+    opacity: 0.6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 2000px) {
+    .footerSection p {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .footerSection p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footerSection p {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 640px) {
+    .footerSection p {
+        font-size: 15px;
+    }
+}
