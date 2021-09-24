@@ -1,22 +1,18 @@
 import React from "react";
 import "./Search.css";
-/*const listItems = [];
-const filter = filter.addEventListener("input", (e) => Search(e.target.value));*/
 
-function Search() {
-    /*listItems.forEach((item) => {
-        if (item.innerText.toLowerCase().includes(searchTerm.toLowerCase())) {
-            item.classList.remove("hide");
-        } else {
-            item.classList.add("hide");
-        }
-    });*/
-
+const Search = ({ handleChange, searchTitle }) => {
     return (
-        <div className="searchSection">
-            <input type="text" id="filter" placeholder="Search" />
+        <div className="searchSection" id="search">
+            <input
+                type="text"
+                id="filter"
+                placeholder="Search......."
+                onChange={handleChange}
+                value={searchTitle}
+            />
         </div>
     );
-}
+};
 
 export default Search;
