@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mini-projects/static/css/main.aecf8681.chunk.css",
-    "main.js": "/mini-projects/static/js/main.ce38af41.chunk.js",
-    "main.js.map": "/mini-projects/static/js/main.ce38af41.chunk.js.map",
-    "runtime-main.js": "/mini-projects/static/js/runtime-main.1822d357.js",
-    "runtime-main.js.map": "/mini-projects/static/js/runtime-main.1822d357.js.map",
-    "static/js/2.c737b8ee.chunk.js": "/mini-projects/static/js/2.c737b8ee.chunk.js",
-    "static/js/2.c737b8ee.chunk.js.map": "/mini-projects/static/js/2.c737b8ee.chunk.js.map",
-    "static/js/3.f6e31a7a.chunk.js": "/mini-projects/static/js/3.f6e31a7a.chunk.js",
-    "static/js/3.f6e31a7a.chunk.js.map": "/mini-projects/static/js/3.f6e31a7a.chunk.js.map",
+    "main.js": "/mini-projects/static/js/main.a36a5335.chunk.js",
+    "main.js.map": "/mini-projects/static/js/main.a36a5335.chunk.js.map",
+    "runtime-main.js": "/mini-projects/static/js/runtime-main.7c1fd65e.js",
+    "runtime-main.js.map": "/mini-projects/static/js/runtime-main.7c1fd65e.js.map",
+    "static/js/2.b8be3dfd.chunk.js": "/mini-projects/static/js/2.b8be3dfd.chunk.js",
+    "static/js/2.b8be3dfd.chunk.js.map": "/mini-projects/static/js/2.b8be3dfd.chunk.js.map",
+    "static/js/3.89dac6cc.chunk.js": "/mini-projects/static/js/3.89dac6cc.chunk.js",
+    "static/js/3.89dac6cc.chunk.js.map": "/mini-projects/static/js/3.89dac6cc.chunk.js.map",
     "index.html": "/mini-projects/index.html",
     "static/css/main.aecf8681.chunk.css.map": "/mini-projects/static/css/main.aecf8681.chunk.css.map",
-    "static/js/2.c737b8ee.chunk.js.LICENSE.txt": "/mini-projects/static/js/2.c737b8ee.chunk.js.LICENSE.txt",
+    "static/js/2.b8be3dfd.chunk.js.LICENSE.txt": "/mini-projects/static/js/2.b8be3dfd.chunk.js.LICENSE.txt",
     "static/media/backgroundSlider.4b2afc48.png": "/mini-projects/static/media/backgroundSlider.4b2afc48.png",
     "static/media/blurryLoading.6c936676.png": "/mini-projects/static/media/blurryLoading.6c936676.png",
     "static/media/dadJokes.82620cad.png": "/mini-projects/static/media/dadJokes.82620cad.png",
@@ -31,9 +31,9 @@
     "static/media/testimonialBoxSwitcher.e224b845.png": "/mini-projects/static/media/testimonialBoxSwitcher.e224b845.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1822d357.js",
-    "static/js/2.c737b8ee.chunk.js",
+    "static/js/runtime-main.7c1fd65e.js",
+    "static/js/2.b8be3dfd.chunk.js",
     "static/css/main.aecf8681.chunk.css",
-    "static/js/main.ce38af41.chunk.js"
+    "static/js/main.a36a5335.chunk.js"
   ]
 }
